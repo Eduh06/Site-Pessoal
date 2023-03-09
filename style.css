@@ -2,7 +2,7 @@
 /* ---------------Inicio das formatações no Body--------------*/
 body{		
 
-	font-size: 1em;		/*Adicionada fonte de 16pix padrão (1em) */	
+	font-size: 20px;		/*Adicionada fonte de 16pix padrão (1em) */	
 	font-family: Inter;		/* formatado o estilo de letra */
 	background: #e6e6e63d;		/*formatada uma cor de fundo para o body */
 }
@@ -92,7 +92,7 @@ body{
 .Icone{
     width: 10%;
 	margin-top: 10%;
-	margin-left: 42px;
+	margin-left: 35px;
 }
 
 #rodapé{
