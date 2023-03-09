@@ -20,6 +20,7 @@ body{
 	padding: 50px;				/*Formatado  espaçamento do Cabeçalho */
 	text-align: center;			/*Formatado texto no centro */
 	border-radius: 15px;
+
 }
 
 #Area-Nome {		/*Formatado espaçamento da area logo e area menu */	
@@ -42,7 +43,7 @@ body{
 
 #Menu-lateral{
 	background: black;			/* adicionada cor de fundo */
-	padding: 60px;				/* configura o espaçamento interno do texto */
+	padding: 25px;				/* configura o espaçamento interno do texto */
 	margin-bottom: 30px;		/* formatado margem inferior  */
 	margin-top: 15px;
 	border-radius: 15px;
@@ -50,7 +51,11 @@ body{
 }
 
 .foto{
-    width: 100%;
+    width: 60%;
+	display: block;
+	margin-left: 65px;
+	border: solid #00D2DF;
+
 }
 
 
@@ -86,13 +91,19 @@ body{
 
 .Icone{
     width: 10%;
+	margin-top: 10%;
+	margin-left: 42px;
 }
 
 #rodapé{
 	clear: both;				/* remove o fluxo dos elementos flutuantes */
 	text-align: center;			/* posiciona o texto no centro */
 	padding: 15px;   			/* configura o espaçamento interno do texto */
-	background: #ccc;			/* adicionada cor de fundo */
+	background: black;			/* adicionada cor de fundo */
+	border: solid #00D2DF;
+	color: white;
+
+
 }
 
 
