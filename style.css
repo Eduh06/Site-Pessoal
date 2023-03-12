@@ -1,10 +1,9 @@
 
-/* ---------------Inicio das formatações no Body--------------*/
 body{		
 
-	font-size: 20px;		/*Adicionada fonte de 16pix padrão (1em) */	
-	font-family: Inter;		/* formatado o estilo de letra */
-	background: #e6e6e63d;		/*formatada uma cor de fundo para o body */
+	font-size: 20px;		
+	font-family: Inter;		
+	background: #e6e6e63d;		
 }
 
 #Geral {
@@ -13,17 +12,16 @@ body{
 }
 
 
-/* ---------------Inicio das formatações do cabeçalho--------------*/
 
 #Area-cabecalho {
-	background-color: black;  /* Adicionada uma cor de fundo ao Cabeçalho */
-	padding: 50px;				/*Formatado  espaçamento do Cabeçalho */
-	text-align: center;			/*Formatado texto no centro */
+	background-color: black;  
+	padding: 50px;				
+	text-align: center;			
 	border-radius: 15px;
 
 }
 
-#Area-Nome {		/*Formatado espaçamento da area logo e area menu */	
+#Area-Nome {		
 	padding: 15px;
 } 
 
@@ -35,16 +33,10 @@ body{
 	margin-top: 25px;
 }
 
-
-
-/* ---------------Inicio das formatações menu lateral--------------*/
-
-
-
 #Menu-lateral{
-	background: black;			/* adicionada cor de fundo */
-	padding: 25px;				/* configura o espaçamento interno do texto */
-	margin-bottom: 30px;		/* formatado margem inferior  */
+	background: black;			
+	padding: 15px;				
+	margin-bottom: 30px;		
 	margin-top: 15px;
 	border-radius: 15px;
 
@@ -58,21 +50,15 @@ body{
 
 }
 
-
-
-
-/* ---------------Inicio das formatações menu central--------------*/
-
-
 #Area-principal{
-	margin-bottom: 30px;		/* formatado margem inferior  */
+	margin-bottom: 30px;		
 	margin-top: 15px;
 	margin-left: 15px;
 }
 
 
 #Area-postagens{
-	float: right;				/* posiciona a area de postagen a esquerda */
+	float: right;				
 }
 
 
@@ -176,11 +162,14 @@ h3{								/*configuração para os h3 do site */
 	border: green  3px solid;		/* Adicionada uma borda a imagem */
 }
 
-
-/*configuração para os paragrafos do site */
 .paragrafo{					
 	padding-top: 10px;				/* formatado espaçamento interno superior  */
 	text-align: justify;				/* justificado o texto */
 	color: white;
 }					
-	
+
+.paragrafo1{					
+	padding-top: 10px;				/* formatado espaçamento interno superior  */
+	text-align: center;				/* justificado o texto */
+	color: #00D2DF;
+}	
