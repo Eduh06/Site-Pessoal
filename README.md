@@ -8,9 +8,7 @@ Projeto de um portfolio pessoal.
 
 ## Nesse projeto quero desenvolver um site, com todas as informações do meu currículo, para isso irei utilizar, HTML, CSS e JAVASCRIPT.
 
-
-![image](https://user-images.githubusercontent.com/37030387/223889183-239daa92-3b5f-4f2b-b946-9e3d4479a4e6.png)
-
+![image](https://user-images.githubusercontent.com/37030387/224859651-26d4e2b9-bcf0-4c48-98ea-50eba12cb384.png)
 
 
 
